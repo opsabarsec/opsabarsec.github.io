@@ -4,8 +4,11 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: August 2020
+repository: https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning
+category: AI mobile app
+description: ML pipeline that predicts the breeds and associated probabilities from a photo of the dog. The algorithm has to be deployed to an API, easy to use for non technical customers.
+
+An Android app, opendognet, was built based on the same.
+https://apkgk.com/dev.giandonet.dog_breed_classification
 ---

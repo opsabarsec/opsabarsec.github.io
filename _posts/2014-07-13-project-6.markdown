@@ -4,8 +4,9 @@ modal-id: 6
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2025
+repository: https://github.com/opsabarsec/py_dress_inventory
+category: Wrapper
+description: Manually describing each item to sell it online (say, on vinted.it) can take you a long time.
+The package developed for this project helps you by feeding the images to an LLM and generating the description from them.
 ---

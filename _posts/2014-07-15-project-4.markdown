@@ -4,8 +4,10 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: August 2022
+repository: https://github.com/opsabarsec/IoT_timeseries_analysis
+category: Machine Learning Time Series prediction
+description: Application of CUSUM method for anomaly detection showed that there were some consumption spikes, correlated to the weather but no points of steady increase.
+
+Models built with LightGBM can predict future energy consumption when weather information was added to the simple time information.
 ---
