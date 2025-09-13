@@ -5,8 +5,9 @@ date: 2014-07-15
 img: submarine.png
 alt: image-alt
 project-date: July 2025
-repository: https://github.com/opsabarsec/py_dress_inventory
+#repository: https://github.com/opsabarsec/py_dress_inventory
+client: /
 category: Wrapper
-description: Manually describing each item to sell it online (say, on vinted.it) can take you a long time.
-The package developed for this project helps you by feeding the images to an LLM and generating the description from them.
+description: Manually describing each item to sell it online (say, on vinted.it) can take you a long time. The package developed for this project helps you by feeding the images to an LLM and generating the description from them.
 ---
+```

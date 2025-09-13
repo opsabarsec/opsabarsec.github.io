@@ -5,9 +5,9 @@ date: 2014-07-15
 img: game.png
 alt: image-alt
 project-date: August 2022
-repository: https://github.com/opsabarsec/IoT_timeseries_analysis
+#repository: https://github.com/opsabarsec/IoT_timeseries_analysis
+client: /
 category: Machine Learning Time Series prediction
-description: Application of CUSUM method for anomaly detection showed that there were some consumption spikes, correlated to the weather but no points of steady increase.
-
-Models built with LightGBM can predict future energy consumption when weather information was added to the simple time information.
+description: Application of CUSUM method for anomaly detection showed that there were some consumption spikes, correlated to the weather but no points of steady increase. Models built with LightGBM can predict future energy consumption when weather information was added to the simple time information.
 ---
+```

@@ -5,7 +5,9 @@ date: 2014-07-18
 img: cabin.png
 alt: image-alt
 project-date: September 2025
-repository: https://github.com/opsabarsec/hotel-receptionist-voice-bot
+#repository: https://github.com/opsabarsec/hotel-receptionist-voice-bot
+client: /
 category: AI powered voice assistant
 description: This project implements an intelligent voice assistant designed specifically for hotel reception services. The bot leverages OpenAI's Realtime API to provide seamless, multilingual customer interactions, handling common hotel inquiries, bookings, and guest services with natural voice conversations.
 ---
+```

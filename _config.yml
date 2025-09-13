@@ -14,13 +14,12 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# Contact form:
+Contact form:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-  without the leading hash-tag)
+contact: static   
+#(without the leading hash-tag)
 color:
   primary: 0033cc # Blue
   primary-rgb: 0,51,204
@@ -31,7 +30,7 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Marco Berta
-  location: Marseille, France
+  location: Home Location
   social: Around the Web
   credits: Credits
 
