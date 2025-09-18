@@ -8,6 +8,6 @@ project-date: September 2025
 #repository: https://github.com/opsabarsec/ai-powered-mortgage-analysis
 client: /
 category: RAG
-description: The AI-Powered Mortgage Analysis System is a comprehensive solution designed to revolutionize mortgage document processing and income verification. This system leverages advanced artificial intelligence technologies including Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine learning algorithms to automate the traditionally manual and time-intensive mortgage application review process.
+description: The AI-Powered Mortgage Analysis System is a comprehensive solution designed to revolutionize mortgage document processing and income verification. This system leverages advanced artificial intelligence technologies including Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine learning algorithms to automate the traditionally manual and time-intensive mortgage application review process. Code available at https://github.com/opsabarsec/ai-powered-mortgage-analysis
 ---
 ```

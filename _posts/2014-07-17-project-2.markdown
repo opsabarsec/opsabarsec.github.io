@@ -8,6 +8,6 @@ project-date: August 2025
 #repository: https://github.com/opsabarsec/docker_model_demo
 client: /
 category: Containerized LLM app (RAG)
-description:  Using Docker models a local LLM can question your sensitive data.
+description:  Using Docker models a local LLM can question your sensitive data. Code available at https://github.com/opsabarsec/docker_model_demo
 ---
 ```

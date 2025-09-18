@@ -1,13 +1,13 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2014-07-14
-img: safe.png
+img: safe.png #submarine.png #
 alt: image-alt
 project-date: August 2020
-#repository: https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning
+#repository: 
 client: /
 category: AI mobile app
-description: ML pipeline that predicts the breeds and associated probabilities from a photo of the dog. The algorithm has to be deployed to an API, easy to use for non technical customers. An Android app, opendognet, was built based on the same.
+description: ML pipeline that predicts the breeds and associated probabilities from a photo of the dog. The algorithm has to be deployed to an API, easy to use for non technical customers. An Android app, opendognet, was built based on the same. Code available at https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning
 ---
 ```
