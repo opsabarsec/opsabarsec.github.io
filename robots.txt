@@ -1,0 +1,31 @@
+# robots.txt for opsabarsec.github.io
+# Portfolio/Freelancer website
+
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+
+# Disallow development and config files (if accidentally deployed)
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
+Disallow: /_config.yml
+Disallow: /Rakefile
+Disallow: /.travis.yml
+Disallow: /freelancer-theme-jekyll.gemspec
+
+# Disallow git and vscode directories (if accidentally deployed)
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /.vscode/
+
+# Disallow mail handler (backend script)
+Disallow: /mail/
+
+# Allow images and assets to be indexed
+User-agent: Googlebot-Image
+Allow: /img/
+Allow: /css/
+Allow: /js/
+
+# Sitemap location
+Sitemap: https://opsabarsec.github.io/sitemap.xml
