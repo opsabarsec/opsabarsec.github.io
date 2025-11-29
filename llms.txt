@@ -1,0 +1,75 @@
+# Marco Berta - AI Engineer Portfolio
+
+> AI Engineer - Data Scientist - Researcher
+> Freelance AI Engineer | Azure certified Data Scientist
+
+## About
+
+Marco Berta is an AI Engineer with 5+ years of experience designing and delivering AI/ML solutions across diverse industries and with a variety of partners. He helps businesses and technical teams move beyond the noise of AI hype and focus on building systems that create real competitive advantage.
+
+## Contact Information
+
+- **Name**: Dr. Marco Berta
+- **Email**: info@marco-berta.com
+- **Website**: https://marco.berta.com
+- **Location**: 13006 Marseille, France
+- **LinkedIn**: https://www.linkedin.com/in/marco-berta
+- **GitHub**: http://github.com/opsabarsec
+- **YouTube**: https://www.youtube.com/@marco-berta-ai
+- **Medium**: https://medium.com/@marcoberta
+- **Calendly**: https://calendly.com/marco-berta-info (Free 30-minute strategy session)
+
+## Skills & Expertise
+
+Python, AI, Machine Learning, Deep Learning, Data Science, Data Engineering
+
+## Services
+
+Marco offers:
+- AI implementation consulting for businesses wanting to implement AI effectively before competitors get ahead
+- Technical expertise and clear roadmap for AI solutions
+- Strategic perspective combining both technical and business understanding
+- Free 30-minute strategy session to discuss AI challenges
+
+## Portfolio Projects
+
+### 1. AI-Powered Voice Assistant for Hotels (September 2025)
+**Category**: AI powered voice assistant
+**Description**: Intelligent voice assistant designed specifically for hotel reception services. Leverages OpenAI's Realtime API to provide seamless, multilingual customer interactions, handling common hotel inquiries, bookings, and guest services with natural voice conversations.
+**Repository**: https://github.com/opsabarsec/hotel-receptionist-voice-bot
+
+### 2. Containerized LLM App with RAG (August 2025)
+**Category**: Containerized LLM app (RAG)
+**Description**: Using Docker models, a local LLM can question your sensitive data securely. Demonstrates privacy-focused AI implementation for sensitive business data.
+**Repository**: https://github.com/opsabarsec/docker_model_demo
+
+### 3. AI-Powered Mortgage Analysis System (September 2025)
+**Category**: RAG (Retrieval Augmented Generation)
+**Description**: Comprehensive solution designed to revolutionize mortgage document processing and income verification. Leverages advanced AI including Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine learning algorithms to automate the traditionally manual and time-intensive mortgage application review process.
+**Repository**: https://github.com/opsabarsec/ai-powered-mortgage-analysis
+
+### 4. IoT Time Series Analysis (August 2022)
+**Category**: Machine Learning Time Series prediction
+**Description**: Application of CUSUM method for anomaly detection showed consumption spikes correlated to weather patterns. Models built with LightGBM predict future energy consumption when weather information is added to time information.
+**Repository**: https://github.com/opsabarsec/IoT_timeseries_analysis
+
+### 5. Dog Breed Classification AI (August 2020)
+**Category**: AI mobile app
+**Description**: ML pipeline that predicts dog breeds and associated probabilities from photos. Algorithm deployed to an API for non-technical customers. Android app "opendognet" built based on the same technology.
+**Repository**: https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning
+
+### 6. Automated Product Description Generator (July 2025)
+**Category**: Wrapper / LLM Integration
+**Description**: Package that automates item descriptions for online selling platforms (e.g., vinted.it). Feeds images to an LLM and generates descriptions automatically, saving significant time in product listing.
+**Repository**: https://github.com/opsabarsec/py_dress_inventory
+
+## Target Audience
+
+This website is for businesses and technical teams who:
+- Want to implement AI effectively before competitors get ahead
+- Are looking for technical expertise and a clear roadmap for AI solutions
+- Need someone who understands both technical and business perspectives
+
+## Copyright
+
+Website and content � Dr. Marco Berta, 2025. All rights reserved. Empowering business growth through AI automation.
