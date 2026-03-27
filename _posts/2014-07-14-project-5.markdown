@@ -2,12 +2,13 @@
 layout: default
 modal-id: 6
 date: 2014-07-14
-img: safe.png #submarine.png #
+img: sub.png #submarine.png #
 alt: image-alt
-project-date: August 2020
-#repository: 
+project-date: March 2026
+#repository:
 client: /
-category: AI mobile app
-description: ML pipeline that predicts the breeds and associated probabilities from a photo of the dog. The algorithm has to be deployed to an API, easy to use for non technical customers. An Android app, opendognet, was built based on the same. Code available at https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning
+category: AI web app
+link: https://opsabarsec.github.io/opsabarsec.github.io-divelog/
+description: Free and open-source digital dive logbook replacing paper logbooks. Built with FastAPI and Convex (backend) and vanilla JS (frontend). Features automatic geolocation, AI-powered fish identification via Fishial.ai, dive club website lookup, and photo upload with full-screen lightbox. Supports both scuba and freediving. MIT licence — self-hostable on Vercel.
 ---
 ```
